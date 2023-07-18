@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "HelloAndroid"
+include ':app'
+include ':uidemo'
+include ':intentdemo'
+include ':intentclassdoing'
+include ':servicedemo'
+include ':myapplication'
+include ':broadcastdemotrue'
+include ':broadcastsend'
+include ':contentproviderdemo'
+include ':dbdemo'
+include ':thethirdhomework'
+include ':BigHmeworkThree'

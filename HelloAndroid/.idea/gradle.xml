@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BigHmeworkThree" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcastdemotrue" />
+            <option value="$PROJECT_DIR$/broadcastsend" />
+            <option value="$PROJECT_DIR$/contentproviderdemo" />
+            <option value="$PROJECT_DIR$/dbdemo" />
+            <option value="$PROJECT_DIR$/intentclassdoing" />
+            <option value="$PROJECT_DIR$/intentdemo" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/servicedemo" />
+            <option value="$PROJECT_DIR$/thethirdhomework" />
+            <option value="$PROJECT_DIR$/uidemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#101010"
+    tools:context=".FirstHomeworkActivity">
+
+    <TextView
+        android:id="@+id/secondTextView"
+        android:layout_width="86dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="296dp"
+        android:layout_marginTop="288dp"
+        android:text="SS"
+        android:textColor="#F6F1F1"
+        android:textColorHint="#F3EBEB"
+        android:textSize="34sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/amPmTextView"
+        android:layout_width="76dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="288dp"
+        android:layout_marginTop="220dp"
+        android:text="am"
+        android:textColor="#EDE6E6"
+        android:textColorHint="#E6DBDB"
+        android:textSize="34sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/HandMViewText"
+        android:layout_width="396dp"
+        android:layout_height="214dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="204dp"
+        android:text="HH:M"
+        android:textColor="#F8F0F0"
+        android:textSize="96sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/WeekTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="348dp"
+        android:text="WK"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/YMDTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="208dp"
+        android:layout_marginTop="348dp"
+        android:text="xxxx/xx/xx"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
